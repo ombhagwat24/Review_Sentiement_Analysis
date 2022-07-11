@@ -8,3 +8,6 @@ tensorflow
 sklearn
 collections
 wordcloud
+requests
+re
+sys
