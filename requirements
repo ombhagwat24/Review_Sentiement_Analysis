@@ -6,3 +6,5 @@ nltk
 scipy
 tensorflow
 sklearn
+collections
+wordcloud
