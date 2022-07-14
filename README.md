@@ -35,11 +35,12 @@ So, as we can see that above 3 reviews,
 <img src="https://user-images.githubusercontent.com/94888819/178960039-db43612f-be75-43d7-a3a1-2265f566e6be.png" width="900px" align="left" alt="wordcloud" /> 
 
 _____________________________________________________________________________________________  **`Model Accuracy Comparison`**
+
 | Algorithms  | Accuracy  |
 | --- | --- | 
 | **Logistic Regression** | **89%** | 
-| **Random Forest** | **85%** | 
-| **Naive Bayes** | **82%** | 
+| **Random Forest** | **88%** | 
+| **Naive Bayes** | **84%** | 
 <b/>
 
 ## `Model Deployment`
