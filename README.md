@@ -22,6 +22,9 @@ So, as we can see that above 3 reviews,
 ## We Have selected amazon FireTV Stick as our product because it has more reviews and also good customer ratings so we decided to extract the data from Amazon website using BeautifulSoup.
 ## Amazon fire Tv stick is a media streaming device which lets to stream video, install apps, play music etc on your tv. It's built on the Android platform and it converts normal tv to a smart tv. 
 
+## `Dataset after polarity & Subjectivity`
+![0025A4E7-2F29-4B94-B6B1-89FC0B41C590](https://user-images.githubusercontent.com/94888819/178972748-68e75d58-733b-4eea-a744-612c9f7bda79.jpeg)
+
 # `Insights`
 
 <img src="https://user-images.githubusercontent.com/94888819/178961424-2c09572e-4c84-41f0-ba44-d687a37541a8.png" min-width="100px" max-width="100px" width="400px" align="left" alt="count"/>
