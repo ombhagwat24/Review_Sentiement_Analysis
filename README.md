@@ -30,11 +30,11 @@ So, as we can see that above 3 reviews,
 
 <img src="https://user-images.githubusercontent.com/94888819/178960397-d066533e-1ed1-45c7-a25b-b40f66e9e840.png" width="500px" align="left" alt="polarity" />
 
-<img src="https://user-images.githubusercontent.com/94888819/178962297-566ba8ca-8c77-4a0c-8ad9-5c3a0a839e15.png" width="400px" align="left" alt="pair" />
+<img src="https://user-images.githubusercontent.com/94888819/178962297-566ba8ca-8c77-4a0c-8ad9-5c3a0a839e15.png" width="400px" align="right" alt="pair" />
 
 <img src="https://user-images.githubusercontent.com/94888819/178960039-db43612f-be75-43d7-a3a1-2265f566e6be.png" width="900px" align="left" alt="wordcloud" /> 
 
-# ________________________________________________________
+# ___________________________________________________
 ## `Model Accuracy Comparison`
 | Algorithms  | Accuracy  |
 | --- | --- | 
