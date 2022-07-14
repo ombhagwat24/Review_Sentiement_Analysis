@@ -34,7 +34,7 @@ So, as we can see that above 3 reviews,
 
 <img src="https://user-images.githubusercontent.com/94888819/178960039-db43612f-be75-43d7-a3a1-2265f566e6be.png" width="900px" align="left" alt="wordcloud" /> 
 
-_____________________________________________________________________________________________ `Model Accuracy Comparison`
+_____________________________________________________________________________________________ # `Model Accuracy Comparison`
 | Algorithms  | Accuracy  |
 | --- | --- | 
 | **Logistic Regression** | **89%** | 
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 ## `Model Deployment`
 <img src="https://user-images.githubusercontent.com/94888819/178969316-0f2b851a-57e7-406b-88bf-2ea0fd3f63ac.png" width="900px" align="left" alt="deploy" /> 
-_______________________________________________________________________________________________
+_____________________________________________________________________________________________
 
 ## `Group Members`
 </br>This project is part of a learning for Data Science in [Excelr](https://learn.excelr.com/login)
