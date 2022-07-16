@@ -1,4 +1,4 @@
-# `Review Sentiement Analysis`
+# `Fire TV Stick Reviews Sentiement Analysis`
 <img src="https://www.kdnuggets.com/wp-content/uploads/mayo_sent_analysis_fastapi_transformers-0.jpg" width="400px" align="right" alt="emo">
 
 Sentiment Analysis, as the name suggests, it means to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication.
@@ -27,32 +27,36 @@ So, as we can see that above 3 reviews,
 
 # `Insights`
 
-<img src="https://user-images.githubusercontent.com/94888819/178961424-2c09572e-4c84-41f0-ba44-d687a37541a8.png" min-width="100px" max-width="100px" width="400px" align="left" alt="count"/>
+<img src="https://user-images.githubusercontent.com/94888819/178961424-2c09572e-4c84-41f0-ba44-d687a37541a8.png" min-width="100px" max-width="100px" width="500px" align="left" alt="count"/>
 
-<img src="https://user-images.githubusercontent.com/94888819/178956189-df549926-62cd-4261-adb0-de8e6832506d.png" width="400px" align="right" alt="pie" />
+<img src="https://user-images.githubusercontent.com/94888819/178956189-df549926-62cd-4261-adb0-de8e6832506d.png" width="500px" align="right" alt="pie" />
 
 <img src="https://user-images.githubusercontent.com/94888819/178960397-d066533e-1ed1-45c7-a25b-b40f66e9e840.png" width="500px" align="left" alt="polarity" />
+ 
+<img src="https://user-images.githubusercontent.com/94888819/178962297-566ba8ca-8c77-4a0c-8ad9-5c3a0a839e15.png" width="500px" align="right" alt="pair" hspace="20"/>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img src="https://user-images.githubusercontent.com/94888819/178962297-566ba8ca-8c77-4a0c-8ad9-5c3a0a839e15.png" width="400px" align="right" alt="pair" />
+<p align="center">
+  <img width=100% src="https://user-images.githubusercontent.com/94888819/179353317-284f8499-3045-4dd0-8050-2d6c0754881e.png">
+</p>
 
-<img src="https://user-images.githubusercontent.com/94888819/178960039-db43612f-be75-43d7-a3a1-2265f566e6be.png" width="900px" align="left" alt="wordcloud" /> 
 
-_____________________________________________________________________________________________  **`Model Accuracy Comparison`**
+# `Model Accuracy Comparison`
 
 | Algorithms  | Accuracy  |
 | --- | --- | 
 | **Logistic Regression** | **89%** | 
 | **Random Forest** | **88%** | 
 | **Naive Bayes** | **84%** | 
-<b/>
+ 
 
-## `Model Deployment`
-<img src="https://user-images.githubusercontent.com/94888819/178969316-0f2b851a-57e7-406b-88bf-2ea0fd3f63ac.png" width="900px" align="left" alt="deploy" /> 
-_____________________________________________________________________________________________
+# `Model Deployment`
+<img src="https://user-images.githubusercontent.com/94888819/178969316-0f2b851a-57e7-406b-88bf-2ea0fd3f63ac.png" width="900px" align="left" alt="deploy" />
+<br><br><br> <br> <br><br><br><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 
-## `Group Members`
-</br>This project is part of a learning for Data Science in [Excelr](https://learn.excelr.com/login)
 
+# `Group Members`
+This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login)
 Member | Email | LinkedIn |
 | --- | --- | --- |
 | **Mentor: Varun Vennelaganti** | [💌](vv@gmail.com) | [☺️](https://www.linkedin.com/in/ram-varun-vennelaganti-52119331/) |
