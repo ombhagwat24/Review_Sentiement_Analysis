@@ -1,4 +1,4 @@
-# `Review Sentiement`
+# `Review Sentiement Analysis`
 <img src="https://www.kdnuggets.com/wp-content/uploads/mayo_sent_analysis_fastapi_transformers-0.jpg" width="400px" align="right" alt="emo">
 
 Sentiment Analysis, as the name suggests, it means to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication.
