@@ -57,7 +57,7 @@ So, as we can see that above 3 reviews,
 
 # `Group Members`
 
-<img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="400px" align="right" alt="logo" />
+<img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="350px" align="right" alt="logo" />
 
 This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login)
 Member | Email | LinkedIn |
