@@ -56,6 +56,9 @@ So, as we can see that above 3 reviews,
 
 
 # `Group Members`
+
+<img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="400px" align="right" alt="logo" />
+
 This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login)
 Member | Email | LinkedIn |
 | --- | --- | --- |
@@ -65,4 +68,4 @@ Member | Email | LinkedIn |
 | **Chitravi Angane** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😎](https://in.linkedin.com/in/chaitravi-angane-a83a9323b) |
 | **Amrut Vishwaroop** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [🥰](https://www.linkedin.com/in/amrut-vishwaroop-0ab946232/) |
 | **Akarsh Bhasi** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😀](https://www.linkedin.com/in/akarshbhasi/) |
-| **Nitin Sharma** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😇](https://www.linkedin.com/in/nitin-sharma-5972091b0/) |
+| **Nitin Sharma** | [💌](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHVftJQMlZKhBJjnFWzKGhwxgckCSxwhZWwqZGXCtLNtbnNsZTMjnpmQgcWgVGldKfZQ) | [😇](https://www.linkedin.com/in/nitin-sharma-5972091b0/) | 
