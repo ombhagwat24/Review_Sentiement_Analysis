@@ -59,7 +59,7 @@ So, as we can see that above 3 reviews,
 
 <img src="https://user-images.githubusercontent.com/94888819/179509965-3ef3367a-7598-4000-93f3-647fa83abafa.gif" width="350px" align="right" alt="logo" />
 
-This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login)
+This project is part of Data Science internship in [Excelr](https://learn.excelr.com/login).
 Member | Email | LinkedIn |
 | --- | --- | --- |
 | **Our Mentor: Varun Vennelaganti** | [💌](vv@gmail.com) | [☺️](https://www.linkedin.com/in/ram-varun-vennelaganti-52119331/) |
